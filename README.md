@@ -28,8 +28,7 @@ Kısacası, bu uygulama, ürün fiyatlarını çeşitli fiyat karşılaştırma 
 
 Veriler, Node.js'de bulunan SELENIUM kütüphanesi kullanılarak, belirli bir fiyat takip sitesinin HTML yapısından çekilir. Price Control App UI, bu verileri Price Control App API projesinden alır.
 
-Price Control App API projesinin kaynak kodları da bu (https://github.com/caneersahin/priceControlAppAPI.git) içinde bulunmaktadır.
-
+Price Control App projesinin kaynak kodları da bu (https://github.com/caneersahin/priceControlApp.git) içinde bulunmaktadır.
 ## Katkıda Bulunma
 
 Eğer projeye katkıda bulunmak isterseniz, lütfen benimle iletişime geçin.
